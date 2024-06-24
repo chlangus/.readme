@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cccc00,35:999966,65:66cc66,100:006633&height=150&section=header&text=&fontSize=0" width="100%"/>
-  <div align=center>
-  <h3> chlangus's Github </h2>
-    </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cccc00,35:999966,65:66cc66,100:006633&height=200&section=header&text=chlangus%20Github&fontSize=50&fontColor=6cf098" width="100%"/>
 <br/>
 
 <div align=center>
